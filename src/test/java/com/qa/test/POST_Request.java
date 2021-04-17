@@ -24,8 +24,8 @@ public class POST_Request
 	public Object[][] dataForPost()
 	{
 		return new Object[][] {
-			{"Priya","QA Engineer","Paris"},
-			{"Abhi","Developer","Delhi"}
+			{"Priyanka","QA Engineer","Paris"},
+			{"Abhishek","Developer","Delhi"}
 		};
 	}
 
